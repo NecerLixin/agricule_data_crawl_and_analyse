@@ -1,4 +1,6 @@
 # agricultural_data_crawl_and_analyse
+# 课程介绍
+  一门创新类型的水课，要求是在网络上爬取农业价格信息，进行舆情指数分析，舆情指数用预测的prob来代替，后续进行格兰杰因果检测啥的。
 # 文件夹介绍
 ## 1 爬虫
   主要使用到selenium进行可视化爬虫，使用firefox浏览器，geckodriver，爬取的平台为搜狗微信
